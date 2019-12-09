@@ -21,6 +21,7 @@ import java.util.TimerTask;
 public class MainActivity extends AppCompatActivity {
 
     //Screen Size
+    //variables
     private int screenWidth;
     private int screenHeight;
     private int lives;
